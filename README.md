@@ -9,8 +9,13 @@ Desafio dio: Construindo um app usando sensor de movimento com React Native.
 ## Conteúdo 
 
 -LIBS - react-native-shake e react-native-torch
+
 StyleSheet
+
 Hook useState
+
 Hook useEffect
+
 Add Listener to RNshake
+
 Lifecicly REACTJS
